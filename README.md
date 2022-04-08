@@ -37,11 +37,13 @@ Net Graph(1.8)
 
 ## Screenshots
 ### 1.8
+Main Menu:
 ![Main Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.8/mainmenu.png)
-![Drag Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.8/dragmenu.png)
+Mod Menu:
 ![Mod Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.8/modmenu.png)
 
 ### 1.7
+Main Menu:
 ![Main Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.7/mainmenu.png)
-![Drag Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.7/dragmenu.png)
+Mod Menu:
 ![Mod Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.7/modmenu.png)
