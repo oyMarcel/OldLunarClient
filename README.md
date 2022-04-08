@@ -33,7 +33,7 @@ With this I am not distributing the source code of the client, nor am I intendin
 - Cooldowns(1.8, 1.7)
 - Team View(1.8, 1.7)
 - Radio(1.8, 1.7)
-- Net Graph(1.8)
+- Net Graph(1.8)<br>
 **Disclaimer: Lunar 1.8 has the hit delay removed.**
 
 ## Screenshots
